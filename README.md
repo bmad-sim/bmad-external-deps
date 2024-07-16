@@ -1,2 +1,3 @@
 # bmad-external-deps repository
-"External" "package" libraries that are used with the Bmad simulation ecosystem (toolkit and related programs) found in the bmad-ecosystem repository
+OLD "External" "package" libraries.
+This repo has been replaced by bmad-external-packages.
